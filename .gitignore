@@ -1,0 +1,25 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs et config locale
+launcher.log
+launcher_config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+.venv/
+
+# Claude
+CLAUDE.md
+.claude/
+
+# IDE
+.vscode/
+.idea/
